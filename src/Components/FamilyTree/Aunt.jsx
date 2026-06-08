@@ -14,8 +14,8 @@ const Aunt = ({ asset }) => {
         <div>
             <h3>Aunt</h3>
             <section className='flex'>
-                <Cousin asset={asset} name="Tom Tom"></Cousin>
-                <Cousin name="jo jooo"></Cousin>
+                <Cousin asset={asset} name="Afrin"></Cousin>
+                <Cousin name="Shahnaj"></Cousin>
                 <button onClick={handleAddMoney}>Add 5000 tk</button>
             </section>
         </div>

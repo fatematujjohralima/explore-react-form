@@ -7,7 +7,7 @@ const Uncle = () => {
             <h3>Uncle</h3>
             <section className='flex'>
                 <Cousin name='Rafsan'></Cousin>
-                <Cousin name='Japsha'></Cousin>
+                <Cousin name='sunehra'></Cousin>
             </section>
         </div>
     );
