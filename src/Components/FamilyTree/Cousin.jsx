@@ -11,7 +11,7 @@ const Cousin = ({name, asset}) => {
                 name === 'Afrin' && <Special asset={asset}></Special>
             }
             {
-                name=== 'jo jooo' && <Friend></Friend>
+                name=== 'Shahnaj' && <Friend></Friend>
             }
         </div>
     );
