@@ -1,5 +1,6 @@
 
 import './App.css'
+import FamilyTree from './Components/FamilyTree/FamilyTree'
 import SimpleForm from './Components/SimpleForm/SimpleForm'
 import ControlledField from './ControlledField/ControlledField'
 import FormAction from './FormAction/FormAction'
@@ -18,6 +19,7 @@ function App() {
       <ControlledField></ControlledField>
       <h1>Using UnControlledField</h1>
       <UnControlledField></UnControlledField>
+      <FamilyTree></FamilyTree>
     
     </>
   )
